@@ -52,20 +52,20 @@ THEN I should have proper build scripts for a webpack application
 
 ## Installation 
 
-This is a live application which can be viewed here: 
+This is a live application.
 
 To install the app onto your local computer, click the install button on the screen. 
-
-![jate-screenshot](https://github.com/erica-210/PWA-backend)
 
 
 ## Usage 
 
+![jate-screenshot](./assets/screenshot.png)
 
 
 ## Links
 
-- [GitHub]()
+- [GitHub](https://github.com/erica-210/PWA-backend)
+- [Live Deploy]([GitHub](https://github.com/erica-210/PWA-backend))
 
 
 ## Contributors 
